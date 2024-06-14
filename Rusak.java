@@ -1,4 +1,4 @@
-class Loop {
+class Rusak {
     public static void main(String[] args) {
         rusak(1000);
     }
