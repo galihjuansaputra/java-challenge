@@ -38,4 +38,4 @@ Penjelasan:
 
 - Setelah semua panggilan rekursif selesai, nilai akhir yang dikembalikan adalah total 1 dari setiap level rekursif
 
-`return valuenya adalah 4`
+akhir dari rekursif menghasilkan return value 4.
