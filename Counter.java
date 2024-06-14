@@ -1,7 +1,7 @@
 public class Counter {
 
     public static void main(String[] args) {
-        counting("Contoh string untuk mencari huruf besar, kecil, angka 12345, dan simbol !@#$%^");
+        counting("pemrogramanDasarJava1");
     }
     
     public static void counting(String str){
